@@ -40,7 +40,7 @@ const photoGroups = {
         { description: "Diadubolical", date: "───𓆩ᥫ᭡𓆪───", image: "bt/bt-6.jpg" },               // Changed
         { description: "I Was Bullied On This Day!!", date: "───𓆩ᥫ᭡𓆪───", image: "bt/bt-7.webp" },          // Changed
         { description: "I Will Hang On To Our Love!!", date: "───𓆩ᥫ᭡𓆪───", image: "bt/bt-8.jpg" },         // Changed
-        { description: "A Flick Im vVery Proud Of", date: "───𓆩ᥫ᭡𓆪───", image: "bt/bt-9.jpg" },        // Changed
+        { description: "A Flick Im Very Proud Of", date: "───𓆩ᥫ᭡𓆪───", image: "bt/bt-9.jpg" },        // Changed
         { description: "Chill Guy", date: "───𓆩ᥫ᭡𓆪───", image: "bt/bt-10.jpg" },            // Changed
         { description: "Mighty Soldier", date: "───𓆩ᥫ᭡𓆪───", image: "bt/bt-11.jpg" },            // Changed
         { description: "Hypnotismatic Behavior", date: "───𓆩ᥫ᭡𓆪───", image: "bt/bt-12.jpg" }             // Changed
@@ -50,7 +50,7 @@ const photoGroups = {
 const timelineMilestones = {
     'first-love': {
         title: 'First Fell in Love',
-        description: 'I still rmeber when we first hung out and I made my mind up that you are the one for me and I will do all that I can to help you see my true feelings. Even though you tortured me all night playing Uno No Mercy 💀',
+        description: 'I still remeber when we first hung out and I made my mind up that you are the one for me, and that I will do all that I can to help you see my true feelings. Even though you tortured me all night playing Uno No Mercy 💀',
         date: "───𓆩ᥫ᭡𓆪───",
         image: 'timeline/first-love.jpg'  // Changed
     },
@@ -62,7 +62,7 @@ const timelineMilestones = {
     },
     'first-trip': {
         title: 'First Trip',
-        description: 'Our first trip together and my first time being in DC. This was both scary and exciting but im glad i got to expeience it with you.',
+        description: 'Our first trip together and my first time being in DC. This was both scary and exciting but im glad I got to expeience it with you.',
         date: 'November 27, 2025',
         image: 'timeline/first-trip.jpg'  // Changed
     },
